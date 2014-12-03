@@ -4,9 +4,9 @@ We are a team of three, we do interesting stuff! We have participated in many 24
 
 #About us
 
-Anurag: "I am a computer science undergraduate. I love building games."
-Anirudh: "I dance."
-Zaid: "I teach Anirudh how to dance."
+Anurag: I am a computer science undergraduate. I love building games.
+Anirudh: I dance.
+Zaid: I teach Anirudh how to dance.
 
 #Skills
 
